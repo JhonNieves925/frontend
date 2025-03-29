@@ -1,24 +1,24 @@
 
 ---
 
-### 📌 **README para el Frontend** (`frontend/README.md`)  
+### **README para el Frontend**
 
 ```md
-# Frontend - Aplicación CRUD
+Frontend - Aplicación CRUD
 
 Este es el frontend de la aplicación, desarrollado con **HTML, CSS y JavaScript puro**. Se comunica con el backend mediante llamadas a una API REST.
 
-## 🚀 Tecnologías usadas
+ Tecnologías usadas
 - HTML, CSS, JavaScript
 - Fetch API
 - Docker + Nginx
 
-## 📌 Requisitos previos
+##  Requisitos previos
 Antes de ejecutar este proyecto, asegúrate de tener instalado:
 - **Docker** y **Docker Compose**
 - **Git** (para clonar el repositorio)
 
-## ⚙️ Instalación y configuración
+## Instalación y configuración
 
 1. Clona este repositorio:
    ```bash
